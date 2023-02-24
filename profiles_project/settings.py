@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     # Add three APP used for this project
     'rest_framework',
     'rest_framework.authtoken',
-    'profiles_api',
+    'profiles_api'
 ]
 
 MIDDLEWARE = [
